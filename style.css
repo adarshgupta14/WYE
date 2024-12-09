@@ -1,0 +1,19 @@
+*{
+    margin: 20px;
+    background-color: #FFFDF2;
+    
+}
+div{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+h1, h2{
+    margin: 10px;
+}
+h1{
+    font-style: unset;
+}
+h2{
+    font-style: oblique;
+}
